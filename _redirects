@@ -1,5 +1,5 @@
 # Redirects from what the browser requests to what we serve
-/              https://ya.ru
+/*              https://flipboard.com/redirect?url=https%3A%2F%2Ffliplink.goglmogl.ru%2F&v=qbO3i4M0AqaKQzN3247JxuD2lnke3J1kvJCA8_ARGF8AAAFnfowddQ
 /blog/my-post.php  /blog/my-post
 /news              /blog
 /google            https://www.google.com
